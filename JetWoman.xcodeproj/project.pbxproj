@@ -14,6 +14,7 @@
 		151C0E6520DD7BD40035727A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151C0E6420DD7BD40035727A /* ViewController.swift */; };
 		151C0E6720DD7BD60035727A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 151C0E6620DD7BD60035727A /* Assets.xcassets */; };
 		151C0E6A20DD7BD60035727A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 151C0E6820DD7BD60035727A /* Main.storyboard */; };
+		1585140B20E6AB9900EA3C83 /* CrashFire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1585140A20E6AB9900EA3C83 /* CrashFire.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		151C0E6920DD7BD60035727A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		151C0E6B20DD7BD60035727A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		151C0E6C20DD7BD60035727A /* JetWoman.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JetWoman.entitlements; sourceTree = "<group>"; };
+		1585140A20E6AB9900EA3C83 /* CrashFire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CrashFire.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				151C0E5C20DD7BD40035727A /* AppDelegate.swift */,
 				151C0E5E20DD7BD40035727A /* GameScene.sks */,
+				1585140A20E6AB9900EA3C83 /* CrashFire.sks */,
 				151C0E6020DD7BD40035727A /* Actions.sks */,
 				151C0E6220DD7BD40035727A /* GameScene.swift */,
 				151C0E6420DD7BD40035727A /* ViewController.swift */,
@@ -132,6 +135,7 @@
 			files = (
 				151C0E5F20DD7BD40035727A /* GameScene.sks in Resources */,
 				151C0E6720DD7BD60035727A /* Assets.xcassets in Resources */,
+				1585140B20E6AB9900EA3C83 /* CrashFire.sks in Resources */,
 				151C0E6120DD7BD40035727A /* Actions.sks in Resources */,
 				151C0E6A20DD7BD60035727A /* Main.storyboard in Resources */,
 			);
